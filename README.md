@@ -1,4 +1,4 @@
-# My-Github-Android-Application
+# Github-Android-App
 An android applicaiton that displays the details of github users.
 
 1) Entry Page: shows the list of github users.
